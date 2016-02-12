@@ -1,6 +1,6 @@
 # pulp-examples
 
-<a href=""><img src="https://www.springboard.com/images/springboard/springboard_logo.7cc929a7.png" alt="Springboard"></a>
+<a href="https://www.springboard.com"/><img src="https://www.springboard.com/images/springboard/springboard_logo_dark.4cd8df81.png" alt="Springboard"></a>
 
 Examples for PuLP - http://www.coin-or.org/PuLP/
 
