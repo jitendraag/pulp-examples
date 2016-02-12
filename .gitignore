@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# .lp / output files
+*.lp
+sudokuout.txt
+
 # Distribution / packaging
 .Python
 env/
