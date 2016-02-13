@@ -12,4 +12,5 @@ sudoku3x3.py - A 3x3 Sudoku implementation (copy of example from PuLP documentat
 
 Connect with me:
 jeet [at] springboard [dot] com
+
 @jiten
